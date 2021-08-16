@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckPrinter", "CheckPrinter\CheckPrinter.csproj", "{BBFB9B13-9270-4647-A83F-E97D5FD9F813}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBFB9B13-9270-4647-A83F-E97D5FD9F813}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBFB9B13-9270-4647-A83F-E97D5FD9F813}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBFB9B13-9270-4647-A83F-E97D5FD9F813}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBFB9B13-9270-4647-A83F-E97D5FD9F813}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B0E28F9-3029-4659-96F5-D7B3C94B82C2}
+	EndGlobalSection
+EndGlobal
